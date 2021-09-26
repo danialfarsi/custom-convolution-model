@@ -1,4 +1,4 @@
-# custom-convolution-model
+# custom-convolution-modelـMNIST_dataset
 In this example, I trained and tested it using the MNIST dataset and building a custom convolution model.
 
 MNIST Dataset
